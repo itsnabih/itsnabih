@@ -1,6 +1,6 @@
 # 👋 &nbsp;Hi there
 - 👀 I’m Ahmad Nabih, I'm CyberSecurity, Blockchain and Networking enthusiast. 
-- 🌱 I’m currently learning cyber pentesting and network security
+- 🌱 I’m currently study as undergraduate student of Faculty of computer scinece at Brawijaya University
 - 📫 How to reach me? 
   follow me at instagram @im.nabh_
 - 😄 Pronouns: Indonesian, English, Arabic
