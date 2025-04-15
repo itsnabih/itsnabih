@@ -5,7 +5,7 @@
   follow me at instagram @im.nabh_
 - 😄 Pronouns: Indonesian, English, Arabic
 ## 📊 &nbsp;Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsnabih)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=itsnabih&theme=whatsapp-light&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 <!---
 itsnabih/itsnabih is a ✨ special ✨ repository because its `README.md` it's everything about 'ME'.
