@@ -29,6 +29,3 @@ languages : Indonesian, English, Arabic
 ```bash
 ahmad@github:~$ echo "secure the network, understand the system"
 ```
-
-```
-```
